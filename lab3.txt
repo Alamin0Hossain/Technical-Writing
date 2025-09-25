@@ -1,0 +1,2 @@
+It is our 3rd technical writing lab class. In this class we learn how to connect git with github
+ and create a repository with push some file.
